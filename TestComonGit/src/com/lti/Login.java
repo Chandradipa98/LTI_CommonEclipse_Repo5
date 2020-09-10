@@ -4,4 +4,8 @@ public class Login {
 	 public void registration() {
 		 
 	 }
+	 
+	 public void login() {
+		 
+	 }
 }
